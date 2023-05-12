@@ -1,5 +1,5 @@
 # Description
-This is my website, built with HTML and CSS. It is a simple website that showcases my skills in web development.
+This is my website, built with HTML and CSS. It is a simple that shows the facilities of a school , courses , teachers and ways to contact them.
 
 # Features
 The website is responsive, meaning it will look good on all devices, including phones, tablets, and computers.
