@@ -17,6 +17,7 @@ HTML
 CSS
 Bootstrap
 Font Awesome
-Contact
+
+# Contact
 If you have any questions about the website, please feel free to contact me at [koechemmanuel2002@gmail.com]
 
