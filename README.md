@@ -2,7 +2,7 @@
 This is my website, built with HTML and CSS. It is a simple that shows the facilities of a school , courses , teachers and ways to contact them.
 
 # Getting Started
-To get started, clone this repository to your local machine. Then, open the index.php file in a web browser.
+To get started, clone this repository to your local machine. Then, open the index.php file in a web browser..
 
 # Features
 The website is responsive, meaning it will look good on all devices, including phones, tablets, and computers.
