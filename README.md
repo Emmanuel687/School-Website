@@ -11,6 +11,10 @@ The website is visually appealing.
 Getting Started
 To view the website, simply open the index.html file in a web browser.
 
+
+
+
+
 # Resources
 The website was built using the following resources:
 HTML
