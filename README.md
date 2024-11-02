@@ -11,7 +11,6 @@ The website is easy to navigate.
 The website is visually appealing.
 Getting Started
 To view the website, simply open the index.html file in a web browser.
-..
 
 
 
